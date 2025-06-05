@@ -1,0 +1,31 @@
+bank,rating,sentiment_label,review_count,avg_sentiment_score
+Bank of Abyssinia,1,negative,193,0.9755851481244971
+Bank of Abyssinia,1,positive,19,0.9486051703754225
+Bank of Abyssinia,2,negative,14,0.9454307385853359
+Bank of Abyssinia,2,positive,1,0.7394685745239258
+Bank of Abyssinia,3,negative,20,0.955157732963562
+Bank of Abyssinia,3,positive,9,0.9344942371050516
+Bank of Abyssinia,4,negative,9,0.9347916973961724
+Bank of Abyssinia,4,positive,4,0.9596570432186127
+Bank of Abyssinia,5,negative,49,0.8744425360037356
+Bank of Abyssinia,5,positive,92,0.983540130050286
+Commercial Bank of Ethiopia,1,negative,42,0.9666177573658171
+Commercial Bank of Ethiopia,1,positive,9,0.9574343760808309
+Commercial Bank of Ethiopia,2,negative,11,0.9960218938914213
+Commercial Bank of Ethiopia,2,positive,3,0.9181646505991617
+Commercial Bank of Ethiopia,3,negative,21,0.9685975511868795
+Commercial Bank of Ethiopia,3,positive,4,0.9996153116226196
+Commercial Bank of Ethiopia,4,negative,23,0.962362281654192
+Commercial Bank of Ethiopia,4,positive,18,0.9496661656432681
+Commercial Bank of Ethiopia,5,negative,53,0.8902583853253778
+Commercial Bank of Ethiopia,5,positive,206,0.9879194524102998
+Dashen Bank,1,negative,31,0.9987440782208596
+Dashen Bank,1,positive,2,0.9385631084442139
+Dashen Bank,2,negative,15,0.9557108998298645
+Dashen Bank,2,positive,2,0.9928671419620514
+Dashen Bank,3,negative,6,0.9981380701065063
+Dashen Bank,3,positive,5,0.9965952873229981
+Dashen Bank,4,negative,12,0.9533085823059082
+Dashen Bank,4,positive,7,0.9527703438486371
+Dashen Bank,5,negative,34,0.9332249304827522
+Dashen Bank,5,positive,264,0.9938598322597417
